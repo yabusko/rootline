@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+node_modules/
+
+# personal photos dropped into the project folder
+/*.jpg
+/*.jpeg
+/*.png
+/*.webp
